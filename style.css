@@ -1,0 +1,25 @@
+body {
+    background-color: #eafefd;
+}
+
+header .container {
+    background-color: #eafefd;
+    height: 100px;
+}
+
+
+header .logo {
+    width: 60px;
+}
+
+#list {
+    padding-left: 70px;
+}
+
+.aside {
+    background-color: brown;
+}
+
+footer {
+    background-color: orange;
+}
