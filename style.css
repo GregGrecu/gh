@@ -17,7 +17,7 @@ header .container {
 .card {
     height: fit-content;
     width: fit-content;
-    flex-basis: 33%;
+    flex-basis: 28%;
 }
 
 header .logo {
