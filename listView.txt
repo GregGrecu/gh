@@ -1,0 +1,56 @@
+My projects
+My city
+HTML
+CSS
+JavaScript
+
+To Do List
+CMD version
+Web version using Django
+
+My Blog
+Django
+Jinja2
+SQLite
+
+Banking APP
+GUI - Tkinter
+Python - Classes
+Matplotlib
+MySQL
+
+Vending machine
+GUI - Tkinter
+Python - Classes
+Matplotlib
+MySQL
+
+Resturant menu APP
+GUI - Tkinter
+Python - Classes
+Matplotlib
+MySQL
+Automated email with STMPLIB
+
+Car Dealer
+GUI - Tkinter
+Python - Classes
+Matplotlib
+MySQL
+Automated email with STMPLIB
+
+Resturant menu Web-App
+Flask
+Python - Classes
+Jinja2
+Matplotlib
+MySQL
+Automated email with STMPLIB
+
+Online store Web-App
+Flask
+Python - Classes
+Jinja2
+Matplotlib
+MySQL
+Cryptography - Hashing & others

@@ -1,5 +1,5 @@
 body {
-    background-color: #eafefd;
+    background-color: #f2fafa;
 }
 
 header .container {
@@ -7,13 +7,25 @@ header .container {
     height: 100px;
 }
 
+.cards {
+    display: flex;
+    height: 90vh;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card {
+    height: fit-content;
+    width: fit-content;
+    flex-basis: 33%;
+}
 
 header .logo {
     width: 60px;
 }
 
 #list {
-    padding-left: 70px;
+    padding: 30px;
 }
 
 .aside {
